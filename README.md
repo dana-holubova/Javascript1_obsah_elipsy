@@ -1,0 +1,1 @@
+# Javascript1_obsah_elipsy
